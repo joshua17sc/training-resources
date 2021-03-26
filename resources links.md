@@ -1,6 +1,6 @@
 # Cyber 101
 
-## OS/System 
+### OS/System 
 - Kali VMware image - https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 - SamuraiWTF - https://www.samurai-wtf.org/
 - REMnux - https://remnux.org/
@@ -8,7 +8,7 @@
 - DEFT
 
 # Capture The Flag
-## Online
+### Online
 - https://www.youtube.com/watch?v=9WhQUItNNMw - CTF Change Your Life
 - https://old.reddit.com/r/hacking/wiki/index#wiki\_ctfs
 - https://TryHackMe.com - **highly recommend**
@@ -25,7 +25,7 @@
 - http://underthewire.tech
 - http://flaws.cloud/
 
-## Vulnerable images
+### Vulnerable images
 - https://www.vulnhub.com/
 
 # Cryptography
@@ -35,16 +35,16 @@
 - https://malwareunicorn.org/#/workshops
 - https://samsclass.info/127/127\_S17.shtml
 
-## Tools
+### Tools
 - https://github.com/longld/peda
 - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
   
-## Assembly
+### Assembly
 - https://yurichev.com/writings/UAL-EN.pdf
 - http://www.egr.unlv.edu/~ed/assembly64.pdf
 - https://godbolt.org/
 
-## Shellcoder
+### Shellcoder
 - https://samsclass.info/127/127\_S17.shtml
 
 # ICS
