@@ -1,6 +1,3 @@
-Author: Josh Mason
-chiron.kvasir@gmail.com
-
 # Cyber 101
 
 ## OS/System 
@@ -9,7 +6,7 @@ chiron.kvasir@gmail.com
 - REMnux - https://remnux.org/
 - SIFT - 
 - DEFT
-___
+
 # Capture The Flag
 ## Online
 - https://www.youtube.com/watch?v=9WhQUItNNMw - CTF Change Your Life
@@ -30,10 +27,10 @@ ___
 
 ## Vulnerable images
 - https://www.vulnhub.com/
-___
+
 # Cryptography
 - https://cryptopals.com/
-___
+
 # Development
 - https://malwareunicorn.org/#/workshops
 - https://samsclass.info/127/127\_S17.shtml
@@ -49,23 +46,26 @@ ___
 
 ## Shellcoder
 - https://samsclass.info/127/127\_S17.shtml
-___
+
 # ICS
 - https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources
 - https://www.robertmlee.org/tag/reading-list/
 - https://www.controlthings.io/home
-___
+
 # Overall - Free
 - https://www.oreilly.com/online-learning/government.html
 - https://fedvte.usalearning.gov/
 - https://portal.cyberforce.site/dashboard - **CAC access required**
 - https://dfirdiva.com/training#FreeTraining
 - https://github.com/The-Art-of-Hacking/h4cker
-___
-# YouTube
+
+# Youtube
 - https://www.youtube.com/user/RootOfTheNull- John Hammond
 - https://youtu.be/WnN6dbos5u8  - Heath Adams - The Cyber Mentor
-___
+
 # Reading
 - https://inst.eecs.berkeley.edu//~cs161/fa08/papers/stack\_smashing.pdf
-___
+
+
+Author: Josh Mason
+chiron.kvasir@gmail.com
